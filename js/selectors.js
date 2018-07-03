@@ -1,4 +1,6 @@
 // declare your functions here...
 function paragraphSelector() {
-  $('p')
+  var answer;
+  answer = $('p')
+  return answer;
 }
