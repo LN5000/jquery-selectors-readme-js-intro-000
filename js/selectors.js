@@ -2,5 +2,9 @@
 function paragraphSelector() {
   var answer;
   answer = $('p')
-  return answer;
+  return $('p');
+}
+
+function lastImageSelector() {
+  
 }
