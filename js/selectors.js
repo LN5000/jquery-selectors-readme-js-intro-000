@@ -4,5 +4,5 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  return $('$( "span:last-of-type" )');
+  return $('img:last');
 }
